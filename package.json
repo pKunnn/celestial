@@ -1,0 +1,31 @@
+{
+  "name": "celestial",
+  "version": "0.0.1-Alpha",
+  "description": "Just a bot that tries to combine all (paid and non-paid) features of most famous bots!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pKunnn/celestial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discordjs",
+    "open-source",
+    "bot"
+  ],
+  "author": "Kris (aka pKunnn/High)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pKunnn/celestial/issues"
+  },
+  "homepage": "https://github.com/pKunnn/celestial#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
