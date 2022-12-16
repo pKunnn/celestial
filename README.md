@@ -1,4 +1,4 @@
-# This is still in very early development!!!!
+# This is still in very early development!!!! (suggest something tho)
 # About Celestial
 Celestial Bot is going to be a free open-source bot that tries to replicate almost all features (paid and non-paid) from other famous bots!
 
