@@ -22,8 +22,11 @@ Discord.JS v14.7.1 or superior.
 **MAYBE** Eslint v8.29.0 or superior.
 
 **NPM Things**
+
 `npm install javascript-binary-converter`
+
 `npm install js-base64`
+
 `npm install youtube-search`
 
 And a brain.
