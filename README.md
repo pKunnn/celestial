@@ -21,4 +21,10 @@ Discord.JS v14.7.1 or superior.
 
 **MAYBE** Eslint v8.29.0 or superior.
 
+**Binary.js**
+`npm install javascript-binary-converter`
+
+**Base64.js**
+`npm install js-base64`
+
 And a brain.
