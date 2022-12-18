@@ -29,4 +29,8 @@ Discord.JS v14.7.1 or superior.
 
 `npm install youtube-search`
 
+`npm install request`
+
+`npm install booru`
+
 And a brain.
