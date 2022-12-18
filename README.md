@@ -33,4 +33,6 @@ Discord.JS v14.7.1 or superior.
 
 `npm install booru`
 
+if you dont have it `npm install morse`
+
 And a brain.
