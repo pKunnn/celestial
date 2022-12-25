@@ -36,3 +36,6 @@ Discord.JS v14.7.1 or superior.
 if you dont have it `npm install morse`
 
 And a brain.
+
+#Invite Link
+https://discord.com/oauth2/authorize?client_id=1052725393729273906&permissions=0&scope=bot%20applications.commands
