@@ -19,23 +19,31 @@ Node.JS v16.17.1 or superior.
 
 Discord.JS v14.7.1 or superior.
 
-**MAYBE** Eslint v8.29.0 or superior.
-
-**NPM Things**
-
-`npm install javascript-binary-converter`
-
-`npm install js-base64`
-
-`npm install youtube-search`
-
-`npm install request`
-
-`npm install booru`
-
-if you dont have it `npm install morse`
-
 And a brain.
+
+# Fun Features
+
+`Anime-Search:` Search an anime image via Safebooru. (one tag only, might update that in the future)
+
+`Base 64:` Encode or Decode any ASCII text to Base 64.
+
+`Binary:` Encode (only) any ASCII text to Binary. (i know i need to make a decode one)
+
+`Dog:` Sends a random image of an dog. (using https://random.dog api)
+
+`Morse:` Encode or Decode any ASCII text to Morse.
+
+`Youtube-Search:` Search any youtube video using any text.
+
+
+# Not so Fun Features
+
+`Ping:` Replies with "Pong!"
+
+`Server Info:` It shows... the server... info
+
+`User Info:` Same deal but with user
+
 
 # Invite Link
 https://discord.com/oauth2/authorize?client_id=1052725393729273906&permissions=0&scope=bot%20applications.commands
