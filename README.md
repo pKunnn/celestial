@@ -19,7 +19,7 @@ And a brain.
 
 # Fun Features
 
-`Anime-Search:` Search an anime image via Safebooru. (one tag only, might update that in the future)
+`Anime-Search:` Search an anime image via Safebooru. (four tags only, might update that in the future)
 
 `Base 64:` Encode or Decode any ASCII text to Base 64.
 
