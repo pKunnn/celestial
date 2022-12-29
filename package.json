@@ -1,6 +1,6 @@
 {
   "name": "celestial",
-  "version": "0.0.1-Alpha",
+  "version": "0.0.9-Alpha",
   "description": "Just a bot that tries to combine all (paid and non-paid) features of most famous bots!",
   "main": "index.js",
   "scripts": {
