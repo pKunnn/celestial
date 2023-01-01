@@ -14,7 +14,7 @@ module.exports = {
     async execute(interaction) {
     const opts = {
         maxResults: 10,
-        key: "AIzaSyDcbTfOM4c8sAQLcjqSM2ysdFiLdGYV6Wc",
+        key: "Youtube API V3",
     };     
     const bruh = interaction.options.getString("input");
     search(bruh, opts, async function (err, results, id) {
