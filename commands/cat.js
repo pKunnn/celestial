@@ -8,7 +8,7 @@ const { SlashCommandBuilder } = require("discord.js");
 module.exports = {
   data: new SlashCommandBuilder()
     .setName("cat")
-    .setDescription("Sends a random dog image! (powered by thecatapi.com)"),
+    .setDescription("Sends a random cat image! (powered by thecatapi.com)"),
   async execute(interaction) {
     await interaction.reply("Loading...");
     await interaction.editReply("Loaded!");
