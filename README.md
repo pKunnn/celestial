@@ -25,9 +25,13 @@ And a brain.
 
 `Binary:` Encode (only) any ASCII text to Binary. (i know i need to make a decode one)
 
+`Cat:` Sends a random image of an cat. (using https://thecatapi.com api)
+
 `Dog:` Sends a random image of an dog. (using https://random.dog api)
 
 `Morse:` Encode or Decode any ASCII text to Morse.
+
+`Translate:` Translate any text to (almost) any language!
 
 `Youtube-Search:` Search any youtube video using any text.
 
