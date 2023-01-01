@@ -1,6 +1,6 @@
 {
   "name": "celestial",
-  "version": "0.0.9-Alpha",
+  "version": "0.0.1-Alpha",
   "description": "Just a bot that tries to combine all (paid and non-paid) features of most famous bots!",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,7 @@
   "homepage": "https://github.com/pKunnn/celestial#readme",
   "dependencies": {
     "@discordjs/opus": "^0.8.0",
+    "@thatapicompany/thecatapi": "^1.0.2",
     "booru": "^2.6.3",
     "decoder": "^1.1.6",
     "discord-music-player": "^9.1.1",
@@ -32,6 +33,7 @@
     "js-base64": "^3.7.3",
     "morse": "^0.1.0",
     "morse-decoder": "^3.0.1",
+    "node-google-translate-skidz": "^1.1.2",
     "request": "^2.88.2",
     "youtube-search": "^1.1.6"
   },
