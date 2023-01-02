@@ -1,6 +1,6 @@
 ##### `I lost focus of my main purpose to this bot.` 
 ##### `So, for now its just another wip discord bot. ` 
-###### I will still update the bot tho.
+###### I will still update the bot tho. (and yes, this bot is very VERY simple)
 
 
 # Why Celestial?
