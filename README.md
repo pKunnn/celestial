@@ -25,7 +25,7 @@ And a brain.
 
 `Binary:` Encode (only) any ASCII text to Binary. (i know i need to make a decode one)
 
-`Cat:` Sends a random image of an cat. (using https://thecatapi.com api)
+`Cat:` Sends a random image of an cat. (using https://cataas.com api)
 
 `Dog:` Sends a random image of an dog. (using https://random.dog api)
 
